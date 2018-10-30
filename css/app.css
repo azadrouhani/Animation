@@ -308,6 +308,16 @@ button:hover span.five{
   width:586px;
   height:500px;
 }
+#about{
+    width:800px;
+    height:900px;
+    background-color:beige;
+    font-family: 'Oswald', sans-serif;
+    padding:2em;
+}
+p{
+    border-top:2px solid black;
+}
 #play_button{
     position:absolute;
     left:1580px;
